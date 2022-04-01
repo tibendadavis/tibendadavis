@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davis Tibenda</h1>
-<h3 align="center">🐻 Full Stack Javascript developer and Python developer.</h3>
+<h3 align="center">🐻 Full Stack Javascript and Python developer.</h3>
 
 <!--- 👨‍💻 My Portfolio [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)-->
 
