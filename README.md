@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davis Tibenda</h1>
+<h1 align="center">Hi 👋, I'm Davis </h1>
 <h3 align="center">🐻 Javascript and Python developer.</h3>
 
 <!--- 👨‍💻 My Portfolio [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)-->
