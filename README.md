@@ -3,7 +3,7 @@
 
 <!--- 👨‍💻 My Portfolio [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)-->
 
-- 💬 Ask me about **React JS, React Native, Nest JS, MySQL, NodeJS, Python, TypeScript, JavaScript**
+- 💬 Ask me about **Flutter, Dart, NestJS, TypeScript, NodeJS, MySQL, MongoDB, React JS, Python, JavaScript**
 
 - 📫 How to reach me **davistibz@gmail.com**
 
