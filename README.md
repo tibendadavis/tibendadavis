@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davis </h1>
-<h3 align="center">🐻 Flutter developer.</h3>
+<h3 align="center">🐻 Software developer.</h3>
 
 <!--- 👨‍💻 My Portfolio [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)-->
 
