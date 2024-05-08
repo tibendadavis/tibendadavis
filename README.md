@@ -5,7 +5,4 @@
   </tr>
 </table>
 
-### My Contribution Status
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tibendadavis&show_icons=true&theme=merko&count_)
 
